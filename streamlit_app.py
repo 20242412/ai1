@@ -8,7 +8,7 @@ import pandas as pd
 st.title("송맑음의 인터넷 페이지")
 
 # 2. 부제목
-st.subheader("조용수 보.")
+st.subheader("조용수 바보")
 
 # 3. 판다스 데이터프레임 기반 표 출력
 df = pd.DataFrame({
